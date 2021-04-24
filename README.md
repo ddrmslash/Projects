@@ -1,3 +1,3 @@
 # Projects
 
-This is a repo for all projects.
+This is a simple repo for all projects.
