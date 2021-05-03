@@ -1,3 +1,5 @@
+# This is a Translator App using Tesseract OCR
+
 import tkinter as tk
 from tkinter.ttk import *
 import sys
